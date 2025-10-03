@@ -9,3 +9,9 @@ To overcome this, I combined a Genetic Algorithm with PyLTSpice to automate desi
 Median output: 89.44V (only 0.56V off target) with a variance of 0.53V in the steady state.
 This project highlights how evolutionary algorithms, when paired with simulation automation tools like PyLTSpice, can significantly accelerate analog design optimization.
 I’m looking forward to connecting with like-minded people exploring Design Space Exploration, circuit automation, and evolutionary computation.
+
+# Demonstration 
+
+The following section shows a small demonstration in which the RLC parameters of a voltage boost circuit is being estimated using the genetic algorithm . The circuit boost 5V to 90V for a 1kΩ load. The fitness curve is as shown below
+
+## Fitness curve
